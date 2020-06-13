@@ -1,0 +1,12 @@
+############################# About ###################################
+about:
+  enable : true
+  title : About Us
+  about_item :
+  - icon : ti-user # themify icon pack : https://themify.me/themify-icons
+    title : We're Cutomer Oriented
+    content : We pride ourselves on our in-depth knowledge and our ability to help beginners and seasoned vapers find new ways to enjoy their hobby.
+
+  - icon : ti-thought # themify icon pack : https://themify.me/themify-icons
+    title : We're Knowledgeable
+    content : Weather you need new ways to enjoy their hoy. Weather you need new mods, more cleaning tools, a sick vaporizer, or some diverse e-juice, we are ready to help!

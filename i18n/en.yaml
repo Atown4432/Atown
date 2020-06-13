@@ -1,0 +1,9 @@
+
+- id: all
+  translation: All
+- id: about
+  translation: About Us
+- id: portfolio
+  translation: Portfolio
+- id: contact
+  translation: Contact

@@ -1,0 +1,11 @@
+############################### Banner ################################
+banner:
+  enable : true
+  bg_image : "images/backgrounds/bg-hero.jpg"
+  icon : "" # themify icon pack : https://themify.me/themify-icons
+  title : "Experience the new reality"
+  content : "This is ATown!"
+  button:
+    enable : true
+    label : "Explore Us"
+    link : "#portfolio"

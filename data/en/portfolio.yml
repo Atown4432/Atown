@@ -7,7 +7,7 @@ portfolio:
     - name : Tag Design
       image : images/portfolio/blue_slushie.jpg
       image_webp : images/portfolio/blue_slushie.webp
-      categories : ["Hot Products!"]
+      categories : ["Amazing Deal"]
       content : Lorem ipsum dolor sit amet consectetur adipisicing elit.
       link : ""
       
@@ -23,7 +23,7 @@ portfolio:
     - name : Clock Product
       image : images/portfolio/glass_2.jpg
       image_webp : images/portfolio/glass_2.webp
-      categories : ["Hot Products!", "Sale"]
+      categories : ["Amazing Deal", "Sale"]
       content : Lorem ipsum dolor sit amet consectetur adipisicing elit.
       link : "#"
       
@@ -39,7 +39,7 @@ portfolio:
     - name : Shopping Bag
       image : images/portfolio/necter_collector_1.jpg
       image_webp : images/portfolio/necter_collector_1.webp
-      categories : ["Hot Products!"]
+      categories : ["Amazing Deal"]
       content : Lorem ipsum dolor sit amet consectetur adipisicing elit.
       link : "#"
       

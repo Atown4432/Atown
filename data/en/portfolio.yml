@@ -2,7 +2,6 @@
 portfolio:
   enable : true
   title : Product Spotlight
-  content : "Come stop by our store and check out the below items before they are gone! Mention that you saw it on the site and get 5% off!"
   portfolio_item :
     # portfolio item loop
     - name : Tag Design
